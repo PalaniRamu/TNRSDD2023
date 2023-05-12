@@ -6,5 +6,4 @@
 ## Step 5 - Evaluate real time video or images
 
 ====================================================================================
-File TNRSDD2023_YOLOV7_Training_Module contains the codes for the aforementioned steps. Launch Collab Research and open the file. If necessary, you can alter the file path.   The research concept is described in IMPROVE CUSTOM OBJECT DETECTION OF ROAD SURFACES BY
-SMOOTHING OF LABELS AND IMAGE ENHANCEMENT .pdf.
+File TNRSDD2023_YOLOV7_Training_Module contains the codes for the aforementioned steps. Launch Collab Research and open the file. If necessary, you can alter the file path.   The research concept is described in IMPROVE CUSTOM OBJECT DETECTION OF ROAD SURFACES BY.pdf.
